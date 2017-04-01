@@ -1,1 +1,1 @@
-alert("Initial by me");
+alert("Modify by learn");
